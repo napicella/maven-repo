@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.napicella.shard</groupId>
+  <artifactId>shard-metadata-store</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181219173801</lastUpdated>
+  </versioning>
+</metadata>
